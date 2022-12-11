@@ -1,7 +1,7 @@
 <https://maximmorkovnik.github.io/cars-app/>
   
 <h1>CarsApp</h1>
-<h4>This project was generated with Angular CLI version 15.0.3.</h4>
+This project was generated with Angular CLI version 15.0.3.
 
 <h1>Development server</h1>
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The application will automatically reload if you change any of the source files.
