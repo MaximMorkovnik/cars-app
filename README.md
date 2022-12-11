@@ -11,7 +11,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 <h1>Build</h1>
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-Project build command: -> `ng build --deploy-url '/cars-app/' --base-href '/cars-app/'`
+Project build command:  ->  <h4>ng build --deploy-url '/cars-app/' --base-href '/cars-app/'</h4>
 
 <h1>Running unit tests</h1>
 Run `ng test` to execute the unit tests via Karma.
